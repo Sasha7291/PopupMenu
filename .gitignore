@@ -1,0 +1,10 @@
+.qtc_clangd
+build
+release
+debug
+*.stash
+*.user
+Makefile
+*.debug
+*.release
+ui_*.h
